@@ -6,3 +6,15 @@ h3 {
 .skills {
    color: green;
 }
+
+.ol-style {
+   color: black;
+   text-align: center;
+   list-style-type: upper-roman;
+}
+
+.p-style{
+   color:red;
+   font-weight: 900;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
